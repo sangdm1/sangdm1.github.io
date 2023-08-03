@@ -1,0 +1,53 @@
+{
+  "img_dir": "/assets/images/",
+  "mode_config": {
+    "4x4": {
+      "max_card": 8,
+      "max_card_per_line": 4,
+      "card_css": {
+        "width": "200px",
+        "height": "200px"
+      },
+      "img_css": {
+        "width": 200,
+        "height": 200
+      }
+    },
+    "6x6": {
+      "max_card": 18,
+      "max_card_per_line": 6,
+      "card_css": {
+        "width": "150px",
+        "height": "150px"
+      },
+      "img_css": {
+        "width": 150,
+        "height": 150
+      }
+    },
+    "8x8": {
+      "max_card": 32,
+      "max_card_per_line": 8,
+      "card_css": {
+        "width": "105px",
+        "height": "105px"
+      },
+      "img_css": {
+        "width": 105,
+        "height": 105
+      }
+    },
+    "10x10": {
+      "max_card": 50,
+      "max_card_per_line": 10,
+      "card_css": {
+        "width": "82px",
+        "height": "82px"
+      },
+      "img_css": {
+        "width": 82,
+        "height": 82
+      }
+    }
+  }
+}
